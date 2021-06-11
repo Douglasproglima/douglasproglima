@@ -40,10 +40,18 @@ So, always...
 
 ____________
 
-<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasproglima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align=“center”>
   <table>
     <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=douglasproglima&count_private=true&show_icons=true&theme=dracula" /></td>
+      <td><img width=“495px” align=“left” src="https://github-readme-stats.vercel.app/api?username=douglasproglima&count_private=true&show_icons=true&theme=dracula" /></td>
+    </tr>
+    <tr>
+      <td><img height="234px"  width=“495px” align=“right” src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></td>
+    </tr>
+    <tr>
+      <td><img height="90px"  width=“495px” align=“right” src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></td>
     </tr>
   </table>
 </div>
