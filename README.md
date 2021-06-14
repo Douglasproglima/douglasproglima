@@ -43,7 +43,7 @@ ____________
 <div align=“center”>
   <table>
     <tr>
-      <td><img height="200px"  width=“400px” align=“center” src="https://github-readme-stats.vercel.app/api?username=douglasproglima&count_private=true&show_icons=true&theme=dracula" /></td>
+      <td><img height="200px"  width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=douglasproglima&count_private=true&show_icons=true&theme=dracula" /></td>
     </tr>
   </table>
 </div>
@@ -51,7 +51,7 @@ ____________
 <div align=“center”>
   <table>
     <tr>
-      <td><img height="240px"  width=“495px” align=“center” src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></td>
+      <td><img height="240px"  width="495px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></td>
     </tr>
   </table>
 </div>
@@ -59,7 +59,7 @@ ____________
 <div align=“center”>
   <table>
     <tr>
-      <td><img height="93px"  width=“495px” align=“center” src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></td>
+      <td><img height="93px"  width="495px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></td>
     </tr>
   </table>
 </div>
