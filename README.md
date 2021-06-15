@@ -34,32 +34,23 @@ Certifications and Academic Training
 
 So, always...
 
+<!--
 <div align="center">
 <img src="https://media.giphy.com/media/3ohs7UUn0xTJ7KYZK8/giphy.gif" alt="preview"/>
 </div>
+-->
+
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
 
 ____________
-
-<div align=“center”>
-  <table>
-    <tr>
-      <td><img height="200px"  width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=douglasproglima&count_private=true&show_icons=true&theme=dracula" /></td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-<div align=“center”>
-  <table>
-    <tr>
-      <td><img height="240px"  width="495px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></td>
-    </tr>
-  </table>
-</div>
-
-<div align=“center”>
-  <table>
-    <tr>
-      <td><img height="93px"  width="495px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></td>
-    </tr>
-  </table>
-</div>
+<p  align="center">
+  <img height="200px" width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=douglasproglima&count_private=true&show_icons=true&theme=dracula" /></br>
+  <img height="240px"  width="495px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></br>
+  <img height="150px" width="600px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></br>
+</p>
