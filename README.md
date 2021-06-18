@@ -52,5 +52,5 @@ ____________
 <p  align="center">
   <img height="200px" width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=douglasproglima&count_private=true&show_icons=true&theme=dracula" /></br>
   <img height="240px"  width="495px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></br>
-  <img height="150px" width="600px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></br>
+  <img height="200px" width="550px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></br>
 </p>
