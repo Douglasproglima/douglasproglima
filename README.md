@@ -52,5 +52,14 @@ ____________
 <p  align="center">
   <img height="200px" width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=douglasproglima&count_private=true&show_icons=true&theme=dracula" /></br>
   <img height="240px"  width="495px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></br>
-  <img height="200px" width="550px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></br>
+  <img height="320px" width="490px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></br>
+</p>
+
+<p align="center"> 
+
+ ### Total de Visitantes no Perfil :detective: <br>
+ ---
+ <p align="center">
+   <img alingn="center" src="https://profile-counter.glitch.me/douglasproglima/count.svg" />
+ </p>
 </p>
