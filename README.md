@@ -4,7 +4,7 @@ Full Stack Developer at [@uaisoft](https://github.com/UaisoftERP).
 
 [![Linkedin Badge](https://img.shields.io/badge/Douglas%20Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasproglima/)](https://www.linkedin.com/in/douglasproglima/) [![Gmail Badge](https://img.shields.io/badge/douglasproglima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasproglima@gmail.com)](mailto:douglasproglima@gmail.com) [![Douglas Lima](https://img.shields.io/badge/douglasproglima.com-636363?&style=flat-square)](https://douglasproglima.com/)
 
-- ♾️ I am Senior Developer, over 12 years in the IT industry, working for the government, private companies in Brazil and Japan.
+- ♾️ I am Developer, over 12 years in the IT industry, working for the government, private companies in Brazil and Japan.
 - 🌱 This moment I'm studying React and AWS Cloud Services.
 
 - 💻 My main skills:
@@ -22,8 +22,8 @@ Full Stack Developer at [@uaisoft](https://github.com/UaisoftERP).
 - 📝 Certifications and Academic Training
 
 - Scrum Master I – Scrum Org (2019);
-- UNINTER International University Center of Brazil (2017);
-- Information Technology Technician – CECON of Brazil (2012);
+- UNINTER International University Center of Brazil;
+- Information Technology Technician – CECON of Brazil;
 
 - English Intermediate Level(B1) Reading, Writing and Conversation - TOEIC (R&L) Total Score: 415.
 - Spanish Advanced Level Reading, Writing and Conversation.
