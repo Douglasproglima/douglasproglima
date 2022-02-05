@@ -52,7 +52,7 @@ ____________
   <img height="320px" width="490px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasproglima&layout=compact&count_private=true&show_icons=true&theme=dracula" /></br>
 </p>
 
-![Snake animation](https://github.com/jefersondevsouza/jefersondevsouza/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Douglasproglima/Douglasproglima/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> 
  ### Total visitors on profile :detective: <br>
