@@ -21,6 +21,7 @@ Architecture Software at [@Totvs](https://github.com/Totvs).
 
 - 📝 Certifications and Academic Training
 
+- [Microsoft AZ-900](https://www.credly.com/badges/cd486449-b0c0-4118-a006-f22242718fcd/linked_in_profile) 
 - Scrum Master I – Scrum Org (2019);
 - UNINTER International University Center of Brazil;
 - Information Technology Technician – CECON of Brazil;
