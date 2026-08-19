@@ -77,15 +77,22 @@
   <img src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </p>
 
+<!-- Estes SVGs são gerados pelo workflow .github/workflows/profile-summary-cards.yml
+     e ficam versionados no próprio repo. Sem dependência de serviço externo em runtime.
+     Só aparecem depois da primeira execução do workflow. -->
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=douglasproglima&count_private=true&show_icons=true&hide_border=true&theme=dracula" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasproglima&layout=compact&count_private=true&hide_border=true&theme=dracula" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/Douglasproglima/Douglasproglima/master/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile details" />
 </p>
 
-<!-- O card do WakaTime só renderiza se você tiver conta no WakaTime com o mesmo username
-     e a opção "Display coding activity publicly" habilitada. Se aparecer erro, apague este bloco. -->
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=douglasproglima&layout=compact&hide_border=true&theme=dracula" alt="WakaTime stats" />
+  <img src="https://raw.githubusercontent.com/Douglasproglima/Douglasproglima/master/profile-summary-card-output/dracula/3-stats.svg" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/Douglasproglima/Douglasproglima/master/profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Douglasproglima/Douglasproglima/master/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per language" />
+  <img src="https://raw.githubusercontent.com/Douglasproglima/Douglasproglima/master/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most commit language" />
 </p>
 
 <p align="center">
